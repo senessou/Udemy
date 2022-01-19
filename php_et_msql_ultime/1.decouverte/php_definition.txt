@@ -1,0 +1,17 @@
+php => 
+php
+hypertext
+preprocessor
+
+il est utiliser pour le cote serveur c'est-a-dire son code est executer par le serveur
+non par le navgateur 
+
+requête client - HTML
+lorsq'un client faire une requete (demande) d'une page html, cette requette sera envoye
+au serveur, le serveur va donc recupérer notre requete et va nous retourner une page html
+
+requête client - PHP
+lorsq'un client faire une requete (demande), cette requette sera envoye au serveur, le
+seveur demande a PHP d'envoye les données de la page, PHP demande a msql de recupérer 
+les données (exemple comme les dernier article d'un blog), php recupère tout ces données
+et envoye ca au serveur 

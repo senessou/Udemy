@@ -1,0 +1,17 @@
+1. Qu’est-ce qu’une structure de contrôle .mp4
+
+2. L’expression IF.mp4
+
+3. Les opérateurs logiques
+
+5. Les conditions multiples
+
+6. Les conditions ternaires
+
+7. L’expression IF ELSE
+
+8. L’expression IF ELSE IF ELSE
+
+9. Utiliser des SWITCH
+
+10. Ecrire des conditions simples de façon concise

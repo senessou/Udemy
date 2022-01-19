@@ -1,0 +1,9 @@
+1. variable
+
+2. Concaténer des variables associer
+
+4. Faire des mathématiques
+
+7. Les tableaux
+
+8. Exercice final

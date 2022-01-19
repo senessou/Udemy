@@ -1,0 +1,12 @@
+1. Qu’est-ce qu’une boucle 
+
+
+2. La boucle WHILE
+
+3. La boucle FOR
+
+4. La boucle FOREACH
+
+5. La boucle DO WHILE
+
+6. Utilisons des boucles imbriquées
